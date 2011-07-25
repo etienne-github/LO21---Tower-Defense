@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/Terrain">
+        <file>boue.jpg</file>
+        <file>E.jpg</file>
+        <file>herbe.jpg</file>
+        <file>N_E.jpg</file>
+        <file>N_O.jpg</file>
+        <file>N.jpg</file>
+        <file>nord.jpg</file>
+        <file>O.jpg</file>
+        <file>panier.png</file>
+        <file>S_E.jpg</file>
+        <file>S_O.jpg</file>
+        <file>S.jpg</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>map.txt</file>
+    </qresource>
+    <qresource prefix="/insectes"/>
+    <qresource prefix="/insectes/fourmi">
+        <file>fourmi1.png</file>
+        <file>fourmi2.png</file>
+        <file>fourmi3.png</file>
+    </qresource>
+    <qresource prefix="/insectes/guepe">
+        <file>guepe1.png</file>
+        <file>guepe2.png</file>
+    </qresource>
+    <qresource prefix="/insectes/cafard">
+        <file>cafard1.png</file>
+        <file>cafard2.png</file>
+        <file>cafard3.png</file>
+    </qresource>
+    <qresource prefix="/insectes/moustique">
+        <file>moustique1.png</file>
+        <file>moustique2.png</file>
+    </qresource>
+    <qresource prefix="/defenses">
+        <file>lance-pierre.png</file>
+        <file>paintball.png</file>
+        <file>petanque.png</file>
+        <file>pistolet-eau.png</file>
+        <file>musicien.png</file>
+    </qresource>
+    <qresource prefix="/insectes/sons">
+        <file>fourmi.mp3</file>
+        <file>guepe.mp3</file>
+        <file>moustique.mp3</file>
+        <file>cafard.mp3</file>
+    </qresource>
+    <qresource prefix="/defenses/sons">
+        <file>lance-pierre.mp3</file>
+        <file>musicien.mp3</file>
+        <file>paintball.mp3</file>
+        <file>petanque.mp3</file>
+        <file>pistolet-eau.mp3</file>
+    </qresource>
+</RCC>
