@@ -2,12 +2,15 @@
 LO21 - Tower Defense -  Readme
 ---------------------------------------------------------------------------
 
-1 - DŽzipper le dossier TowerDefense.zip dans le dossier de votre choix
+1 - Download the entire projet in a folder
 
-2 - Ouvrir TowerDefense.pro avec QCreator
+2 - Open TowerDefense.pro with QCreator
 
-3 - Dans main.cpp mettre ˆ jour la variable sourcePath avec le chemin absolu du dossier dezippŽ (QRessource ne gre malheureusement pas l'utilisation des fichiers .txt et .mp3 utilisŽ par l'application)
+3 - Update the variable "sourcePath" in main .cpp with the absolute path of your folder.
 
-4 - Complier ! (Si soucis : Compiler>Tout nettoyer>Executer qMake>Tout compiler)
+4 - Compile ! (if Trouble  : Compile>Clean All>Execute qMake>Compile All)
 
-5 - Bon jeu ! ;-) 
+5 - Enjoy ! ;-)
+
+NB : The complete project specification is to be read in LO21_TP04_projet.pdf
+   
